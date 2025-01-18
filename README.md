@@ -32,3 +32,9 @@ The API includes **JWT-based authentication**, **role-based security** (for prof
 
 ## 🚀 Deployment
 The backend is deployed on **Render**, a platform for hosting web applications. The API is publicly accessible via the Render domain.
+
+🤝 Contributors
+Special thanks to the contributors:
+@nicksvalle
+
+Feel free to contribute by opening issues or submitting pull requests on the GitHub Repository.
